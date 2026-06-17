@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T12:52:09.891Z",
+  "lastUpdated": "2026-06-17T13:24:25.554Z",
   "strategies": [
     {
       "name": "Global Macro",
@@ -28,7 +28,7 @@
           "direction": "long"
         }
       ],
-      "note": "*All positions represent equivalent exposure from our real portfolio"
+      "note": ""
     },
     {
       "name": "Market Neutral L/S",
@@ -66,14 +66,14 @@
           "weight": "22.36%"
         }
       ],
-      "note": ""
+      "note": "*All positions represent equivalent exposure from our real portfolio"
     },
     {
       "name": "Discretionary Macro",
       "showPositions": false,
       "showWeights": false,
       "positions": [],
-      "note": "FX · Commodities · Equity · Strict risk limits"
+      "note": "*Discretionary Macro plays with FX & Equity options and stricter risk limits. No Active exposure for now. "
     }
   ]
 }
