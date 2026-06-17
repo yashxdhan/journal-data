@@ -1,2 +1,2 @@
 # journal-data
-Published Articles
+Published articles and portfolio data
