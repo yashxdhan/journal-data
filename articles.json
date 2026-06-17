@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "mqi7ehc2j6g6i",
+    "title": "This is the first article",
+    "subtitle": "Hope this works",
+    "category": "journal",
+    "tags": "",
+    "body": "Does this works? I hope it does.",
+    "date": "2026-06-17T15:06:14.979Z",
+    "updated": null
+  }
+]
