@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T13:24:25.554Z",
+  "lastUpdated": "2026-06-17T22:55:53.527Z",
   "strategies": [
     {
       "name": "Global Macro",
@@ -33,7 +33,7 @@
     {
       "name": "Market Neutral L/S",
       "showPositions": true,
-      "showWeights": true,
+      "showWeights": false,
       "positions": [
         {
           "ticker": "TTWO",
@@ -72,7 +72,13 @@
       "name": "Discretionary Macro",
       "showPositions": false,
       "showWeights": false,
-      "positions": [],
+      "positions": [
+        {
+          "ticker": "SPCX Put 100$ Exp. Dec 2028",
+          "direction": "long",
+          "weight": ""
+        }
+      ],
       "note": "*Discretionary Macro plays with FX & Equity options and stricter risk limits. No Active exposure for now. "
     }
   ]
