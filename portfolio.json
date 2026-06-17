@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T12:19:21.362Z",
+  "lastUpdated": "2026-06-17T12:19:56.037Z",
   "strategies": [
     {
       "name": "Global Macro",
@@ -33,7 +33,7 @@
     {
       "name": "Market Neutral L/S",
       "showPositions": true,
-      "showWeights": true,
+      "showWeights": false,
       "positions": [
         {
           "ticker": "TTWO",
